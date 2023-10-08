@@ -1,0 +1,47 @@
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.bg-color {
+    background-color:rgb(29, 30, 31);
+}
+
+.text-shop {
+color: rgb(14, 218, 58);
+}
+
+.p-nav {
+    padding: 5px 75px;
+}
+
+.filter {
+filter: brightness(70%);
+}
+
+.p-banner {
+    padding-right: 110px;
+}
+
+.pt-6 {
+    padding-top: 90px;
+}
+
+.row {
+    margin: 0 50px;
+}
+
+.m-form {
+    margin: 20px 300px;
+}
+
+.btn-form {
+    background-color: rgb(153, 202, 69);
+}
+
+.bg-footer {
+    background: linear-gradient( 90deg, rgb(29, 55, 68), rgb(32, 83, 114));
+}
+    
+.p-footer {
+    padding: 15px 150px;
+  }
