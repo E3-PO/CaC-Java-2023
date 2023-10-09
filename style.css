@@ -6,8 +6,18 @@
     background-color:rgb(29, 30, 31);
 }
 
+
+
 .text-shop {
 color: rgb(14, 218, 58);
+}
+
+.btn-shop {
+    background-color: rgb(29, 155, 56);
+  }
+
+.text-white {
+    color: white
 }
 
 .p-nav {
@@ -26,9 +36,14 @@ filter: brightness(70%);
     padding-top: 90px;
 }
 
-.row {
-    margin: 0 50px;
+.row-cols-1 {
+    margin: 0 30px;
 }
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
 
 .m-form {
     margin: 20px 300px;
@@ -39,7 +54,7 @@ filter: brightness(70%);
 }
 
 .bg-footer {
-    background: linear-gradient( 90deg, rgb(29, 55, 68), rgb(32, 83, 114));
+    background-color: rgb(34, 51, 59);
 }
     
 .p-footer {
